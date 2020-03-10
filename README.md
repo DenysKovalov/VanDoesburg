@@ -1,2 +1,2 @@
-# VanDoesburg
-Variación de Mondrian
+# Excercici5
+Variació del Mondrian
